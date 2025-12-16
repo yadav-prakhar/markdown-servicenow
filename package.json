@@ -1,6 +1,6 @@
 {
   "name": "markdown-servicenow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert Markdown to ServiceNow journal field format with rich HTML formatting",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
