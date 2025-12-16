@@ -1,0 +1,93 @@
+[code]<style type="text/css">
+code { color: crimson; background-color: #f1f1f1; padding-left: 4px; padding-right: 4px; font-size: 110%; }
+</style>
+<style type="text/css">
+.highlight { background-color: #fff3b0; padding: 2px 4px; }
+</style>
+<style type="text/css">
+.note { color: #1f6feb; background-color: #e6ecff; padding: 8px 12px; border-left: 4px solid #1f6feb; display: block; margin: 8px 0; }
+.tip { color: #1a7f37; background-color: #e6ffec; padding: 8px 12px; border-left: 4px solid #1a7f37; display: block; margin: 8px 0; }
+.important { color: #8250df; background-color: #f3e8ff; padding: 8px 12px; border-left: 4px solid #8250df; display: block; margin: 8px 0; }
+.warning { color: #9a6700; background-color: #fff8c5; padding: 8px 12px; border-left: 4px solid #9a6700; display: block; margin: 8px 0; }
+.caution { color: #cf222e; background-color: #ffebe9; padding: 8px 12px; border-left: 4px solid #cf222e; display: block; margin: 8px 0; }
+</style>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+
+<h1>H1 Header</h1>
+<h2>H2 Header</h2>
+<h3>H3 Header</h3>
+<h4>H4 Header</h4>
+<h5>H5 Header</h5>
+<h6>H6 Header</h6>
+<br/>
+This is a <strong>bold</strong> and <em>italic</em> test.<br/>
+<br/>
+Test bold-italic combo: <strong><em>bold and italic</em></strong> and <strong><em>also this</em></strong><br/>
+<br/>
+<ul><li>
+Item 1</li>
+<li>
+Item 2</li>
+<li>
+Item 3</li>
+</ul>
+<br/>
+<br/>
+<ol><li>
+First</li>
+<li>
+Second</li>
+<li>
+Third</li>
+</ol>
+<br/>
+<br/>
+<a href="https://example.com">Link</a><br/>
+<br/>
+<img src="https://picsum.photos/200" alt="Alt text"><br/>
+<br/>
+<blockquote>This is a blockquote<br>
+With multiple lines<br>
+<br>
+Another paragraph in the blockquote<br>
+<br>
+Yet another paragraph with <strong>bold</strong> and <em>italic</em> text.</blockquote>
+<br/>
+<br/>
+<br/>
+<p class="note">ℹ️ <strong>NOTE:</strong> This is a note with some additional content.</p><br/>
+<br/>
+<p class="tip">ℹ️ <strong>TIP:</strong> This is a tip with some additional content.</p><br/>
+<br/>
+<p class="important">ℹ️ <strong>IMPORTANT:</strong> This is an important note with more content.</p><br/>
+<br/>
+<p class="warning">ℹ️ <strong>WARNING:</strong> This is a warning with additional content.</p><br/>
+<br/>
+<p class="caution">ℹ️ <strong>CAUTION:</strong> This is a caution with additional content.</p><br/>
+<br/>
+<h3>Code Example</h3>
+<br/>
+<pre><code>def hello():
+    print("Hello, World!")
+</code></pre>
+<br/>
+<br/>
+with <code>inline code</code> and <strong>bold text</strong> in the middle of a sentence.<br/>
+<br/>
+<h1>Test Markdown</h1>
+<br/>
+This is a test with a <strong>bold</strong> text and a table.<br/>
+<br/>
+<table class="tg"><thead><tr><th class="tg-0pky">Name</th><th class="tg-0pky">Age</th><th class="tg-0pky">City</th></tr></thead><tbody><tr><td class="tg-0pky">John</td><td class="tg-0pky">25</td><td class="tg-0pky">NY</td></tr><tr><td class="tg-0pky">Jane</td><td class="tg-0pky">30</td><td class="tg-0pky">LA</td></tr></tbody></table><br/>
+Another paragraph.<br/>
+<br/>
+<mark>This is highlighted text</mark><br/>
+<br/>
+This has <span class="highlight">highlighted text</span> using markdown syntax.[/code]
